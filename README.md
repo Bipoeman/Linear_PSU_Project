@@ -1,5 +1,5 @@
 # Linear power supply
-
+This project was forked from [Dominik-Workshop Linear_power_supply](https://github.com/Dominik-Workshop/Linear_power_supply/tree/main)
 > [!CAUTION]
 > This project was initiated in 2021 when my skills were more limited. As a result, there might be areas for improvement. I occasionally enhance both the performance and readability of project files for better understanding.
 
